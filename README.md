@@ -1,18 +1,4 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<meta charset="utf-8">
-		<title></title>
-		<style type="text/css">
-			h1{
-				color: white;
-			}
-			li{
-			 color: white;
-			}
-		</style>
-	</head>
-	<body style="background: black;">
+
 		<center><h1>近现代史复习</h1></center>
 		<ul>
 			<li>中华人民共和国成立后,属于完成民主革命遗留任务的是(实行土地制度改革 )。</li>
@@ -53,4 +39,4 @@ D．《驳康有为论革命书》  )</li>
 			<li></li>
 		</ul>
 	</body>
-</html>
+
